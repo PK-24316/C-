@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680367352 source:c:\users\admin\desktop\comp sci\c++\practicals\practical 6\solution\solution\main.cpp
+	"LibShip.h"
+	<iostream>
+
+1680892803 c:\users\admin\desktop\comp sci\c++\practicals\practical 6\solution\solution\libship.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1680892320 source:c:\users\admin\desktop\comp sci\c++\practicals\practical 6\solution\solution\libship.cpp
+	"LibShip.h"
+
