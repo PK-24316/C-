@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1741700015 source:c:\users\pholo\onedrive\documents\code\c++\school\data structures\1. linked lists\implementing a linked list as adt\main\adt.cpp
+	"ADT.h"
+
+1741700044 c:\users\pholo\onedrive\documents\code\c++\school\data structures\1. linked lists\implementing a linked list as adt\main\adt.h
+	<iostream>
+
+1741700067 source:c:\users\pholo\onedrive\documents\code\c++\school\data structures\1. linked lists\implementing a linked list as adt\main\main.cpp
+	<iostream>
+	"ADT.h"
+
