@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1769547073 source:c:\users\pholo\onedrive\documents\code\c++\my games\rock, paper, scissors\main\main.cpp
+	<iostream>
+	"rps.h"
+
+1769546292 c:\users\pholo\onedrive\documents\code\c++\my games\rock, paper, scissors\main\rps.h
+
+1769547038 source:c:\users\pholo\onedrive\documents\code\c++\my games\rock, paper, scissors\main\rps.cpp
+	"rps.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
