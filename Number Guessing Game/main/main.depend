@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1769545830 source:c:\users\pholo\onedrive\documents\code\c++\my games\number guessing game\main\main.cpp
+	<iostream>
+	"game.h"
+
+1769545451 c:\users\pholo\onedrive\documents\code\c++\my games\number guessing game\main\game.h
+
+1769546039 source:c:\users\pholo\onedrive\documents\code\c++\my games\number guessing game\main\game.cpp
+	"game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
