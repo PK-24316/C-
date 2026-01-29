@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1769548670 source:c:\users\pholo\onedrive\documents\code\c++\my games\hangman\main\main.cpp
+	<iostream>
+	"Hangman.h"
+
+1769548039 c:\users\pholo\onedrive\documents\code\c++\my games\hangman\main\hangman.h
+	<string>
+
+1769548758 source:c:\users\pholo\onedrive\documents\code\c++\my games\hangman\main\hangman.cpp
+	"Hangman.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
